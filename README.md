@@ -1,6 +1,6 @@
 # 💫About Me :
 I am currently working at Nvidia as a Software Engineer. 
-My job is to validate new features and hunt bugs for Jetson Edge-AI platform BSP.
+My job is to validate new features and hunt bugs for Jetson Edge-AI platform.
 
 # 🖊️Favorite lines :
 Life is 10% what happens to you and 90% how you react to it.
