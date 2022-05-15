@@ -1,6 +1,10 @@
 # 💫About Me :
 I am currently working at Nvidia as a Software Engineer. 
-My job is to validate new features and hunt bugs on Jetson platform BSP
+My job is to validate new features and hunt bugs for Jetson Edge-AI platform BSP.
+
+# 🖊️Favorite lines :
+Life is 10% what happens to you and 90% how you react to it.
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akshat.marathe1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xblend9to5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-marathe-a4a20360) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xblend9to5) 
