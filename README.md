@@ -18,8 +18,5 @@ Life is 10% what happens to you and 90% how you react to it.
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=xblend&icon=0&color=5)](https://visitcount.itsvg.in)
